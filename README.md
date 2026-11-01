@@ -77,20 +77,29 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Analytics & Widgets
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahaKhanSDE&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Taha Khan GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaKhanSDE&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=TahaKhanSDE&label=Profile%20Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TahaKhanSDE&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TahaKhanSDE&show_icons=true&theme=radical&hide_border=true" alt="Taha Khan GitHub Stats" height="170" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TahaKhanSDE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaKhanSDE&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+---
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahaKhanSDE/TahaKhanSDE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahaKhanSDE/TahaKhanSDE/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/TahaKhanSDE/TahaKhanSDE/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 
 ---
 
@@ -102,19 +111,7 @@
   <a href="https://github.com/TahaKhanSDE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-### 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahaKhanSDE/TahaKhanSDE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahaKhanSDE/TahaKhanSDE/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/TahaKhanSDE/TahaKhanSDE/output/github-contribution-grid-snake.svg">
-</picture>
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=TahaKhanSDE&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
