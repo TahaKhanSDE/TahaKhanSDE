@@ -37,8 +37,8 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[Naadan Cloud Kitchen Platform](https://naadanindia.com/)** | End-to-end cloud kitchen platform featuring a real-time Kitchen Display System (KDS), direct delivery tracking, and transactional order management | Next.js, TypeScript, PostgreSQL, Prisma ORM, WebSockets, Render, Vercel |
-| **[Job Referral Network (RefNet)]** | Full-stack referral platform featuring JWT role-based access control, real-time messaging, and containerized deployment | React, Node.js, Express, PostgreSQL, Socket.io, Docker |
-| **[Pet Healthcare & Veterinary Platform]** | Full-stack veterinary assistance platform with automated OTP verification, veterinary clinic locator, and ML-assisted symptom triage | Python, Flask, Overpass API, Twilio, Scikit-learn |
+| **[Job Referral Network ([RefNet](https://job-referral-network-system.vercel.app/))]** | Full-stack referral platform featuring JWT role-based access control, real-time messaging, and containerized deployment | React, Node.js, Express, PostgreSQL, Socket.io, Docker |
+| **[Pet Healthcare & Veterinary Platform](https://pet-animalhospitalcare-system.onrender.com/)** | Full-stack veterinary assistance platform with automated OTP verification, veterinary clinic locator, and ML-assisted symptom triage | Python, Flask, Overpass API, Twilio, Scikit-learn |
 
 
 ---
