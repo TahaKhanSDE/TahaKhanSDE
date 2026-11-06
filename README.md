@@ -84,10 +84,9 @@
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TahaKhanSDE&show_icons=true&theme=radical&hide_border=true" alt="Taha Khan GitHub Stats" height="170" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TahaKhanSDE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-</p> 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaKhanSDE&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Taha Khan GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=TahaKhanSDE&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
 
 ---
 
