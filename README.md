@@ -79,13 +79,21 @@
 
 ### 📊 GitHub Analytics & Widgets
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TahaKhanSDE&label=Profile%20Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TahaKhanSDE&show_icons=true&theme=radical&hide_border=true" alt="Taha Khan GitHub Stats" height="170" />
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TahaKhanSDE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</p> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TahaKhanSDE&label=Profile%20Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaKhanSDE&show_icons=true&theme=radical&hide_border=true" alt="Taha Khan GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaKhanSDE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
